@@ -280,6 +280,25 @@ footer{
    
     }
 
+    .footer-logo img{
+        width: 350px;
+
+    }
+
+    .social-icon{
+    
+        margin-top: 20px;
+        margin-bottom: 20px;
+        padding-left: 100px;
+    }
+    .copyright{
+        padding-left:100px ;
+    }
+   .brand-logo{
+       padding-left: 85px;
+       margin-bottom: 10px;
+   }
+
     /* media query for second screen */
     @media only screen and (min-width:992px){
 
