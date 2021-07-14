@@ -210,7 +210,7 @@ margin: 158px 481.13px 63px 475px;
 
 @media only screen and (max-width:688px) {
     .head-container{
-        width: 360px;
+        width: 100%;
         height: 695px;
         display: flex;
         flex-direction: column;
