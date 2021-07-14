@@ -111,6 +111,7 @@ body{
 .highlights{
     background-color: azure;
     height: 500px;
+    margin-bottom: 100px;
 }
 .highlights h2:hover{
     font-size: 30px;
@@ -135,6 +136,31 @@ body{
 .hightligh-area p{
     font-size: 64px;
     font-weight: bold;
+}
+/* sponsors area */
+
+.sponsors{
+    background-color: #bbd0c9;
+}
+
+.sponsors h2{
+    margin-left: 580px;
+    
+}
+
+.sponsorship{
+    display: flex;
+    /* flex-direction: row; */
+    align-items: center;
+    justify-content: center;
+    
+
+}
+.brand-logo img{
+    height: 100px;
+    width: 100px;
+    padding-right: 50px;
+
 }
 
 
